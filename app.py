@@ -32,7 +32,7 @@ def query_api(text):
             {"parts": [{"text": f"""Classify the following news as REAL or FAKE.
 Strict answer format:
 1st line → REAL or FAKE
-2nd line → Short explanation
+2nd line → Give detailed  explanation about the news and its sourece why fake or real
 
 Text:
 {text}"""}]}
