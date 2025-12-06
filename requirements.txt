@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+beautifulsoup4
+lxml
+transformers
+torch
